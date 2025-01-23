@@ -10,4 +10,4 @@ All communities in this list are governanced & operated by its community, and th
 
 ## Join the list ?
 
-Please read the requirement and procedure.
+Please read the [requirement and procedure](JOIN.md).

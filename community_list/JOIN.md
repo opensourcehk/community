@@ -12,6 +12,6 @@ An active community joining the Open Source HK community list must:
 
 ## Application Procedures
 
-1. Use community_list/APPLICATION_TEMPLATE.md to create a new issue in opensourcehk/community repo on GitHub.
+1. Use community_list/[APPLICATION_TEMPLATE.md](APPLICATION_TEMPLATE.md) to create a new [issue](https://github.com/opensourcehk/community/issues) in opensourcehk/community repo on GitHub.
 2. Open Source HK will start to process the new submission in 2 weeks.
 
